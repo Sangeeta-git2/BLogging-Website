@@ -24,7 +24,7 @@
                         {{ config('app.name', 'Laravel') }}
                     </a>
                 </div>
-                <nav class="space-x-5 text-gray-200 text-sm sm:text-base">
+                <nav class="space-x-5 text-gray-50 text-sm sm:text-base">
                 <a class="no-underline hover:underline" href="/">Home</a>
                 <a class="no-underline hover:underline" href="/blog">Blog</a>
                 @guest
